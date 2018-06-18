@@ -1,5 +1,3 @@
-
-
 ========================
 
 ## There are two directories(cloud_class, cloud_symfony).
@@ -38,4 +36,3 @@ you can test with following command
 
  + "guzzlehttp/guzzle"
  + "phpunit/phpunit"
- 
