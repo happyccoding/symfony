@@ -1,0 +1,21 @@
+{
+    "name": "hyunm/carton_cloud_class",
+    "authors": [
+        {
+            "name": "Hyunmi Cho",
+            "email": "hmcho74@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BearClaw\\": "src/BearClaw/"
+        }
+    },    
+    "require": {
+		"guzzlehttp/guzzle": "~6.0",
+        "php-http/guzzle6-adapter": "^1.1"
+	},
+    "require-dev": {
+        "phpunit/phpunit": "6.5"
+    }
+}
